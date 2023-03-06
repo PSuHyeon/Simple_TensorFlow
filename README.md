@@ -18,3 +18,5 @@ Operator overload for usability
 Higher order differentiation by using grpah construction for backward method
 
 Double propagation
+
+numpy broadcast detection + application of sum_to and broadcast in backward propagation
